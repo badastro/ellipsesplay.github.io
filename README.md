@@ -1,2 +1,2 @@
-# ellipses.github.io
+# ellipsesmusical.github.io
 https://www.ellipsesmusical.com/
