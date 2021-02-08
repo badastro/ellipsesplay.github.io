@@ -5595,7 +5595,7 @@ nav.main-nav ul {
       -ms-flex-direction: column;
       flex-direction: column;
       position: fixed;
-      background: #1a453b url("https://www.tourmusical.com/images/background/menu-mobile.gif") !important;
+      background: #1a453b url("https://www.ellipsesplay.com/images/ellipses-logo.png") !important;
       background-repeat: repeat;
       background-size: 100%;
       top: 0;
@@ -5696,7 +5696,7 @@ nav.sub-nav {
         -ms-flex-direction: column;
         flex-direction: column;
         position: fixed;
-        background: #1a453b url("https://www.tourmusical.com/images/background/menu-mobile.gif") !important;
+        background: #1a453b url("https://www.ellipsesplay.com/images/ellipses-logo.png") !important;
         background-repeat: repeat;
         background-size: 100%;
         top: 0;
@@ -6525,7 +6525,7 @@ section#quote {
       font-size: 40px;
       width: 100%;
       padding: 50px;
-      background: #FFFFFF url("https://www.ellipsesplay.com/about/gravity.png");
+      background: #FFFFFF url("https://www.ellipsesplay.com/about/gravity.gif");
       background-position: 90% 85%;
       background-size: 200px;
       background-repeat: no-repeat; }
