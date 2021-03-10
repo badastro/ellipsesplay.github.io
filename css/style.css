@@ -5595,7 +5595,7 @@ nav.main-nav ul {
       -ms-flex-direction: column;
       flex-direction: column;
       position: fixed;
-      background: #1a453b url("https://www.ellipsesplay.com/images/ellipses-logo.png") !important;
+      background: #1a453b url("https://www.ellipsesplay.com/images/ellipses-menu.png") !important;
       background-repeat: repeat;
       background-size: 100%;
       top: 0;
@@ -5696,7 +5696,7 @@ nav.sub-nav {
         -ms-flex-direction: column;
         flex-direction: column;
         position: fixed;
-        background: #1a453b url("https://www.ellipsesplay.com/images/ellipses-logo.png") !important;
+        background: #1a453b url("https://www.ellipsesplay.com/images/ellipses-menu.png") !important;
         background-repeat: repeat;
         background-size: 100%;
         top: 0;
