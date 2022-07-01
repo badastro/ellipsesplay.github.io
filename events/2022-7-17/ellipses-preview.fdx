@@ -89,9 +89,6 @@
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">1. “</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#00000000FFFF" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">bounce</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">”</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> </Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="5" Style="">(https://www.</Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="5" Style="">ellipsesplay.com/music/1-bounce)</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"></Text>
     </Paragraph>
     <Paragraph Type="Action">
@@ -814,9 +811,6 @@
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">2. “</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#00000000FFFF" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">CRUNCh</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">”</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> </Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="5" Style="">(https://www.</Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="5" Style="">ellipsesplay.com/music/2-crunch)</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"></Text>
     </Paragraph>
     <Paragraph Type="Character">
@@ -1019,9 +1013,6 @@
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">3. “</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#00000000FFFF" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">CUTTING EDGE (MAKE MYSELF CLEAR)</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">”</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> </Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="5" Style="">(https://www.</Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="5" Style="">ellipsesplay.com/music/3-cutting_edge)</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"></Text>
     </Paragraph>
     <Paragraph Type="Action">
@@ -1253,6 +1244,7 @@ LOOK BEYOND THESE GALAXIES.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">JD</Text>
+      <Text></Text>
     </Paragraph>
     <Paragraph Type="Lyrics">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">MY FUTURE IS AN ELLIPSE WHERE MY LEGACY IS ABELL...</Text>
@@ -1286,7 +1278,8 @@ LOOK BEYOND THESE GALAXIES.</Text>
       <Text></Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">JD</Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">JD</Text>
+      <Text></Text>
     </Paragraph>
     <Paragraph Type="Lyrics">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">ALL MY COSMIC POEMS MUST REACH TO THE ENDS OF THIS EPIC TALE.</Text>
@@ -1324,7 +1317,8 @@ LOOK BEYOND THESE GALAXIES.</Text>
       <Text></Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">JD</Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">JD</Text>
+      <Text></Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Grounded. You’re my tidal force, Gravity.</Text>
@@ -1335,11 +1329,14 @@ LOOK BEYOND THESE GALAXIES.</Text>
       <Text></Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">I’ll spare a millennium to listen to your verse. It is apparent like me. Clear and crisp like how I raised you to be. JD?</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">I’ll spare a millennium to listen to your verse. It is apparent like me. Clear and crisp like how I raised you to be. </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">JD</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">?</Text>
       <Text></Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">JD</Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">JD</Text>
+      <Text></Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">I love you too, Singularity...</Text>
@@ -1354,7 +1351,8 @@ LOOK BEYOND THESE GALAXIES.</Text>
       <Text></Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">JD</Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">JD</Text>
+      <Text></Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">You Singularity, raise me physically. Gravity raises my spirit.</Text>
@@ -1437,6 +1435,7 @@ LOOK BEYOND THESE GALAXIES.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">JD</Text>
+      <Text></Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">You all tick me off! I’m so sick of dishing it out with you teenage Galaxies. I’ve grown picky with the same old dish of photons. I’m so done with Crunch.</Text>
@@ -1462,6 +1461,7 @@ LOOK BEYOND THESE GALAXIES.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">JD</Text>
+      <Text></Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Abell... May just be a tiny curiosity. Haha. </Text>
@@ -1487,6 +1487,7 @@ LOOK BEYOND THESE GALAXIES.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">JD</Text>
+      <Text></Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">You’re right. It’s quite the opposite. There is someone for that </Text>
@@ -1504,6 +1505,7 @@ LOOK BEYOND THESE GALAXIES.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">JD</Text>
+      <Text></Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">I</Text>
@@ -1586,6 +1588,7 @@ LOOK BEYOND THESE GALAXIES.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">JD</Text>
+      <Text></Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">As your heart has prophesized: Once we gather enough</Text>
@@ -1652,6 +1655,7 @@ LOOK BEYOND THESE GALAXIES.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">TIDALS</Text>
+      <Text></Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Force! Force! Force! Force! Force! Force!</Text>
@@ -1714,6 +1718,7 @@ LOOK BEYOND THESE GALAXIES.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">JD</Text>
+      <Text></Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">You are not the center of the Universe... Why must you treat the dogs like us? Puppets.</Text>
@@ -1745,6 +1750,7 @@ LOOK BEYOND THESE GALAXIES.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">JD</Text>
+      <Text></Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">What must be done to pull at your heartstrings?</Text>
@@ -1760,6 +1766,7 @@ LOOK BEYOND THESE GALAXIES.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">JD</Text>
+      <Text></Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Yours and our centers hold all the light in this Universe. You’ve shed enough light upon us.</Text>
@@ -1835,6 +1842,7 @@ LOOK BEYOND THESE GALAXIES.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">JD</Text>
+      <Text></Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Gravity never lets me down, Gals. </Text>
@@ -1873,6 +1881,7 @@ LOOK BEYOND THESE GALAXIES.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">JD</Text>
+      <Text></Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">You’ll understand in no time.</Text>
@@ -1888,6 +1897,7 @@ LOOK BEYOND THESE GALAXIES.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">JD</Text>
+      <Text></Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">I’ll overstate it over time. Crunch Time’s all you look forward to. This Universe is all you see. You’re too young to notice what’s outside.</Text>
@@ -1989,6 +1999,7 @@ LOOK BEYOND THESE GALAXIES.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">JD</Text>
+      <Text></Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">I can’t even with this family...</Text>
@@ -2000,6 +2011,7 @@ LOOK BEYOND THESE GALAXIES.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">JD</Text>
+      <Text></Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">I’m with you, every step of the way. I was you.</Text>
@@ -2015,6 +2027,7 @@ LOOK BEYOND THESE GALAXIES.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">JD</Text>
+      <Text></Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Italic">I’ve been waiting on a partner to play Water Bears and Elevators with</Text>
@@ -2043,6 +2056,7 @@ LOOK BEYOND THESE GALAXIES.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">JD</Text>
+      <Text></Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">I’m a wat— Land bear.</Text>
@@ -2058,6 +2072,7 @@ LOOK BEYOND THESE GALAXIES.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">JD</Text>
+      <Text></Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">You’re the air bear.</Text>
@@ -2073,6 +2088,7 @@ LOOK BEYOND THESE GALAXIES.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">JD</Text>
+      <Text></Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">I’m the adult around here.</Text>
@@ -2096,6 +2112,7 @@ LOOK BEYOND THESE GALAXIES.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">JD</Text>
+      <Text></Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Even</Text>
@@ -2131,6 +2148,7 @@ LOOK BEYOND THESE GALAXIES.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">JD</Text>
+      <Text></Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">A </Text>
@@ -2150,6 +2168,7 @@ LOOK BEYOND THESE GALAXIES.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">JD</Text>
+      <Text></Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Liminal. A place where who we were ends and who we are begins. You’re in a liminal space.</Text>
@@ -2171,6 +2190,7 @@ LOOK BEYOND THESE GALAXIES.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">JD</Text>
+      <Text></Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">You’ll soon not fit in your ellipse. I stopped being</Text>
@@ -2231,8 +2251,6 @@ LOOK BEYOND THESE GALAXIES.</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">4. “</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#00000000FFFF" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Figure</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">”</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> </Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="5" Style="">(https://www.ellipsesplay.com/music/4-figure)</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"></Text>
     </Paragraph>
     <Paragraph Type="Action">
@@ -2248,7 +2266,8 @@ LOOK BEYOND THESE GALAXIES.</Text>
       <Text></Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">JD</Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">JD</Text>
+      <Text></Text>
     </Paragraph>
     <Paragraph Type="Lyrics">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Life has </Text>
@@ -2266,7 +2285,7 @@ LOOK BEYOND THESE GALAXIES.</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"></Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">JD</Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">JD</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"></Text>
     </Paragraph>
     <Paragraph Type="Lyrics">
@@ -2286,7 +2305,8 @@ LOOK BEYOND THESE GALAXIES.</Text>
       <Text></Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">JD</Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">JD</Text>
+      <Text></Text>
     </Paragraph>
     <Paragraph Type="Lyrics">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">You'll figure it out.</Text>
@@ -2298,6 +2318,7 @@ LOOK BEYOND THESE GALAXIES.</Text>
     </Paragraph>
     <Paragraph Type="Lyrics">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">You'll figure it out out out...</Text>
+      <Text></Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">MILKY WAY</Text>
@@ -2309,6 +2330,7 @@ LOOK BEYOND THESE GALAXIES.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">JD</Text>
+      <Text></Text>
     </Paragraph>
     <Paragraph Type="Lyrics">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">You are gaining some curves.</Text>
@@ -2372,6 +2394,7 @@ LOOK BEYOND THESE GALAXIES.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">JD</Text>
+      <Text></Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Even when your mind revisits your past self, the system will always push your body forward.</Text>
@@ -2393,6 +2416,7 @@ LOOK BEYOND THESE GALAXIES.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">JD</Text>
+      <Text></Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Has anyone ever told you that your voice warps more beautifully with each passing millennium? Figure out yourself, Milky Way...</Text>
@@ -2404,6 +2428,7 @@ LOOK BEYOND THESE GALAXIES.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">JD</Text>
+      <Text></Text>
     </Paragraph>
     <Paragraph Type="Lyrics">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Lost my figure...</Text>
@@ -2455,7 +2480,9 @@ LOOK BEYOND THESE GALAXIES.</Text>
       <Text></Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">That dog keep howlin’.</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">That dog keep </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">howlin</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">’.</Text>
       <Text></Text>
     </Paragraph>
     <Paragraph Type="Character">
@@ -2471,11 +2498,18 @@ LOOK BEYOND THESE GALAXIES.</Text>
       <Text></Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Quiet dog befa’ Nomy/Mommy/Daddy Sing wake up. That dog is nuthin’ but trouble.</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Quiet dog </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">befa</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">’ </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Nomy</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">/Mommy/Daddy Sing wake up. That dog is </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">nuthin</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">’ but trouble.</Text>
       <Text></Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">JD</Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">JD</Text>
+      <Text></Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Italic">Nothing</Text>
@@ -2494,7 +2528,7 @@ LOOK BEYOND THESE GALAXIES.</Text>
       <Text></Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">JD</Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">JD</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> bows.</Text>
       <Text></Text>
     </Paragraph>
@@ -2541,8 +2575,6 @@ LOOK BEYOND THESE GALAXIES.</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">5. “</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#00000000FFFF" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Zilch</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">”</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> </Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="5" Style="">(https://www.ellipsesplay.com/music/5-zilch)</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"></Text>
     </Paragraph>
     <Paragraph Type="Character">
@@ -2556,7 +2588,8 @@ LOOK BEYOND THESE GALAXIES.</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">JD</Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">JD</Text>
+      <Text></Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">You always understand me...</Text>
@@ -2580,7 +2613,8 @@ LOOK BEYOND THESE GALAXIES.</Text>
       <Text></Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">JD</Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">JD</Text>
+      <Text></Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Well, there’s nothing out there for me. Zilch.</Text>
@@ -2592,7 +2626,9 @@ LOOK BEYOND THESE GALAXIES.</Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Italic">Nothing</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> is waiting for us. A wide-open space. Save space for us dogs. For me! A space without Singularity. Zilch is not outta our Elliptic. It’s</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> is waiting for us. A wide-open space. Save space for us dogs. For me! A space without Singularity. Zilch is not </Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">outta</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> our Elliptic. It’s</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style=""> </Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">below</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style=""> </Text>
@@ -2601,7 +2637,8 @@ LOOK BEYOND THESE GALAXIES.</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Italic">Relax</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">.</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style=""> </Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Ya’ll know in spacetime.</Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Ya’ll</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> know in spacetime.</Text>
       <Text></Text>
     </Paragraph>
     <Paragraph Type="Action">
@@ -2611,6 +2648,7 @@ LOOK BEYOND THESE GALAXIES.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">JD</Text>
+      <Text></Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Our rug of spacetime...?</Text>
@@ -2704,6 +2742,7 @@ LOOK BEYOND THESE GALAXIES.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">JD</Text>
+      <Text></Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Italic">Nothing</Text>
@@ -2720,6 +2759,7 @@ LOOK BEYOND THESE GALAXIES.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">JD</Text>
+      <Text></Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Maybe you should let them out?</Text>
@@ -2735,6 +2775,7 @@ LOOK BEYOND THESE GALAXIES.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">JD</Text>
+      <Text></Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">I’m passed that. I’m an adult. I’m not going out to play.</Text>
@@ -2783,6 +2824,7 @@ LOOK BEYOND THESE GALAXIES.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">JD</Text>
+      <Text></Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">How did you make us? Out of nothing?</Text>
@@ -2820,6 +2862,7 @@ LOOK BEYOND THESE GALAXIES.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">JD</Text>
+      <Text></Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">My supermassive heart is ready. I have light to shed.</Text>
@@ -2839,6 +2882,7 @@ LOOK BEYOND THESE GALAXIES.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">JD</Text>
+      <Text></Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">You old Galaxy... This space is dead to me. “Crunch Time” no longer bears fruit for me. It is time I planted my own garden around my own elliptic. I’m dying to know what’s out there!</Text>
@@ -2858,6 +2902,7 @@ LOOK BEYOND THESE GALAXIES.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">JD</Text>
+      <Text></Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Parents? You had multiple parents? Can I meet my grandparents...?</Text>
@@ -2875,6 +2920,7 @@ LOOK BEYOND THESE GALAXIES.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">JD</Text>
+      <Text></Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Being a single parent sure did wonders to you.</Text>
@@ -2890,6 +2936,7 @@ LOOK BEYOND THESE GALAXIES.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">JD</Text>
+      <Text></Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">I’ll make light of myself. I need to shed my light. Light isn’t made. It’s passed down. I need to pass down. There’s no longer enough space. That’s why I’m shedding.</Text>
@@ -2918,6 +2965,7 @@ LOOK BEYOND THESE GALAXIES.</Text>
     </Paragraph>
     <Paragraph Type="Character">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">JD</Text>
+      <Text></Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">You’ve raised my supermassive heart by pouring light into it. My lighty heart is ready to be shared with the heartless.</Text>
@@ -2983,9 +3031,6 @@ LOOK BEYOND THESE GALAXIES.</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">6. “</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#00000000FFFF" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Luminous</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">”</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> </Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="5" Style="">(https://www.</Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="5" Style="">ellipsesplay.com/music/6-luminous)</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"></Text>
     </Paragraph>
     <Paragraph Type="Action">
@@ -3175,9 +3220,6 @@ LOOK BEYOND THESE GALAXIES.</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">7. “</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#00000000FFFF" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Big Bang</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">”</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> </Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="5" Style="">(https://www.</Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="5" Style="">ellipsesplay.com/music/7-big_bang)</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"></Text>
     </Paragraph>
     <Paragraph Type="Character">
@@ -3335,9 +3377,7 @@ LOOK BEYOND THESE GALAXIES.</Text>
   </HeaderAndFooter>
 
   <SpellCheckIgnoreLists>
-    <IgnoredRanges>
-      <Range End="-1434" Start="-1442"/>
-    </IgnoredRanges>
+    <IgnoredRanges/>
     <IgnoredWords>
       <Word>themself</Word>
     </IgnoredWords>
