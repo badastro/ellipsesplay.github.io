@@ -28,13 +28,7 @@
       <Text></Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">The</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style=""> </Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Elliptic</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style=""> </Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">is</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style=""> </Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">stationed downstage center. Light dwells solely within the Dome. Inside is a table with seats and a rug. Outside is the stage that is mainly off limits. The side curtains conceal the upstage space. Equations are teeming flowers in the space.</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">The Circle is stationed downstage center. Light dwells solely within the Dome. Inside is a table with seats and a rug. Outside is the stage that is mainly off limits. The side curtains conceal the upstage space. Equations are teeming flowers in the space.</Text>
       <Text></Text>
     </Paragraph>
     <Paragraph Type="Action">
@@ -184,7 +178,9 @@
           </CharacterArcBeat>
         </SceneArcBeats>
       </SceneProperties>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">1. “bounce”</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">1. “</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#00000000FFFF" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">bounce</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">”</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"></Text>
     </Paragraph>
     <Paragraph Type="Action">
@@ -370,7 +366,7 @@
     </Paragraph>
     <Paragraph Type="Action">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">All </Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Tidals</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Tidals</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> prowl in and surround the</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style=""> </Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">table.</Text>
@@ -385,7 +381,9 @@
       <Text></Text>
     </Paragraph>
     <Paragraph Type="General">
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">End of “BOUNCE”</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">End of “</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#00000000FFFF" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">BOUNCE</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">”</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
     </Paragraph>
     <Paragraph Type="Character">
@@ -403,7 +401,7 @@
       <Text></Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">SINGULARITY places the dishes around the table.</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">SINGULARITY sets the table.</Text>
       <Text></Text>
     </Paragraph>
     <Paragraph Type="Character">
@@ -454,7 +452,7 @@
       <Text></Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">We’ve long lived in the Elliptic. The Elliptic is only perfect, with our oldest Galaxy: </Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">We’ve long lived in The Circle. The Circle is only perfect, with our oldest Galaxy: </Text>
       <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">JD</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">.</Text>
       <Text></Text>
@@ -463,7 +461,7 @@
       <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">JD</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> is on the edge. While their siblings see “nothing” out there, </Text>
       <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">JD</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> sees a future elliptic in the nothingness. Beyond the Edge of the Universe. I sense they dream to have an elliptic of their own. This Dome is all we’ve ever known. </Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> sees a future Circle in the nothingness. Beyond the Edge of the Universe. I sense that they dream to have a Circle of their own. This Dome is all we’ve ever known. </Text>
       <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">JD</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> deserves a life of their own. What adult doesn’t wanna leave home to go explore the Universe?
 </Text>
@@ -487,16 +485,11 @@
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Gravity</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">. They set a dish on the ground, for the </Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Tidals</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> to feast upon.</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> to feast upon. They bow.</Text>
       <Text></Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">MILKY WAY hugs SINGULARITY.</Text>
-      <Text></Text>
-    </Paragraph>
-    <Paragraph Type="Action">
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Singularity</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> bows.</Text>
       <Text></Text>
     </Paragraph>
     <Paragraph Type="Character">
@@ -545,7 +538,7 @@
       <Text></Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Has anyone seen my scope? Where could they be? It’s got to be in our Elliptic...</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Has anyone seen my scope? Where could they be? It’s got to be in our Circle...</Text>
       <Text></Text>
     </Paragraph>
     <Paragraph Type="Action">
@@ -586,7 +579,7 @@
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style=""> </Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">my</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style=""> </Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">gravitational pull, step out of this place, you’ll rip the Fabric of Spacetime. Then I, the grandmaster of the Universe, will be out of order. We got all the cosmic formulas right here in our Elliptic. With my wrists and black-hole heart, I cooked you nebulae something special: nuclear pasta and meteors.</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">gravitational pull, step out of this place, you’ll rip the Fabric of Spacetime. Then I, the grandmaster of the Universe, will be out of order. We got all the cosmic formulas right here in our Circle. With my wrists and black-hole heart, I cooked you nebulae something special: nuclear pasta and meteors.</Text>
       <Text></Text>
     </Paragraph>
     <Paragraph Type="Character">
@@ -754,7 +747,7 @@
       <Text></Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">It takes endless millennia to burn that, Andromeda.</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Calories take millennia to burn, Andromeda.</Text>
       <Text></Text>
     </Paragraph>
     <Paragraph Type="Character">
@@ -930,7 +923,9 @@
           </CharacterArcBeat>
         </SceneArcBeats>
       </SceneProperties>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">2. “CRUNCh”</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">2. “</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#00000000FFFF" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">CRUNCh</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">”</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"></Text>
     </Paragraph>
     <Paragraph Type="Character">
@@ -1065,7 +1060,9 @@
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
     </Paragraph>
     <Paragraph Type="General">
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">End of “CRUNCH”</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">End of “</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#00000000FFFF" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">CRUNCH</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">”</Text>
       <Text></Text>
     </Paragraph>
     <Paragraph Type="Scene Heading">
@@ -1128,7 +1125,9 @@
           </CharacterArcBeat>
         </SceneArcBeats>
       </SceneProperties>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">3. “CUTTING EDGE (MAKE MYSELF CLEAR)”</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">3. “</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#00000000FFFF" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">CUTTING EDGE (MAKE MYSELF CLEAR)</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">”</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"></Text>
     </Paragraph>
     <Paragraph Type="Action">
@@ -1419,8 +1418,9 @@ LOOK BEYOND THESE GALAXIES.</Text>
     </Paragraph>
     <Paragraph Type="General">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">End of “</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Cutting Edge</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline"> (MAKE MYSELF CLEAR)”</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#00000000FFFF" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Cutting Edge</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#00000000FFFF" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline"> (MAKE MYSELF CLEAR)</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">”</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
     </Paragraph>
     <Paragraph Type="Character">
@@ -1779,8 +1779,8 @@ LOOK BEYOND THESE GALAXIES.</Text>
       <Text></Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">TIDALS</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"></Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">TIDALS</Text>
+      <Text></Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Force! Force! Force! Force! Force! Force!</Text>
@@ -1792,7 +1792,7 @@ LOOK BEYOND THESE GALAXIES.</Text>
     </Paragraph>
     <Paragraph Type="Parenthetical">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">(Corralling the </Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Tidals</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Tidals</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">)</Text>
       <Text></Text>
     </Paragraph>
@@ -1801,7 +1801,7 @@ LOOK BEYOND THESE GALAXIES.</Text>
       <Text></Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">GRAVITY runs into an invisible wall in the opening of the Elliptic and dizzily falls back.</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">GRAVITY runs into an invisible wall in the opening of the Circle and dizzily falls back.</Text>
       <Text></Text>
     </Paragraph>
     <Paragraph Type="Character">
@@ -2388,7 +2388,9 @@ LOOK BEYOND THESE GALAXIES.</Text>
           </CharacterArcBeat>
         </SceneArcBeats>
       </SceneProperties>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">4. “Figure”</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">4. “</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#00000000FFFF" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Figure</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">”</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"></Text>
     </Paragraph>
     <Paragraph Type="Action">
@@ -2594,7 +2596,7 @@ LOOK BEYOND THESE GALAXIES.</Text>
     </Paragraph>
     <Paragraph Type="General">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">End of “</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Figure</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#00000000FFFF" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Figure</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">”</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
     </Paragraph>
@@ -2720,7 +2722,9 @@ LOOK BEYOND THESE GALAXIES.</Text>
           </CharacterArcBeat>
         </SceneArcBeats>
       </SceneProperties>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">5. “Zilch”</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">5. “</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#00000000FFFF" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Zilch</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">”</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"></Text>
     </Paragraph>
     <Paragraph Type="Character">
@@ -2774,15 +2778,9 @@ LOOK BEYOND THESE GALAXIES.</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Italic">Nothing</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> is waiting for us. A wide-open space. Save space for us dogs. For me! A space without Singularity. Zilch is not </Text>
       <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">outta</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> our Elliptic. It’s</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style=""> </Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">below</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style=""> </Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">ya.</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style=""> </Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> our Circle. It’s below ya. </Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Italic">Relax</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">.</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style=""> </Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">. </Text>
       <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Ya’ll</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> know in spacetime.</Text>
       <Text></Text>
@@ -2850,7 +2848,7 @@ LOOK BEYOND THESE GALAXIES.</Text>
     </Paragraph>
     <Paragraph Type="General">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">End of “</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Zilch</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#00000000FFFF" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Zilch</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">”</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
     </Paragraph>
@@ -3008,7 +3006,7 @@ LOOK BEYOND THESE GALAXIES.</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">How? When your black-hole hearts were small, I shed my light to you all, the lightless. </Text>
       <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Italic">Nothi</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Italic">—</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> I picked equations, feeding you its finest photons. Now my oldest cluster of stars... Your heart is too massive for this Elliptic?</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> I picked equations, feeding you its finest photons. Now my oldest cluster of stars... Your heart is too massive for this Circle?</Text>
       <Text></Text>
     </Paragraph>
     <Paragraph Type="Character">
@@ -3028,7 +3026,7 @@ LOOK BEYOND THESE GALAXIES.</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="8" Style=""></Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">I know your urge to jump to another elliptic. You’re in a liminal space. It’s also mine. You step out of this place and you’re dead to me.</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">I know your urge to jump to another Circle. You’re in a liminal space. It’s also mine. You step out of this place and you’re dead to me.</Text>
       <Text></Text>
     </Paragraph>
     <Paragraph Type="Character">
@@ -3036,7 +3034,7 @@ LOOK BEYOND THESE GALAXIES.</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"></Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">You old Galaxy... This space is dead to me. “Crunch Time” no longer bears fruit for me. It is time I planted my own garden around my own elliptic. I’m dying to know what’s out there!</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">You old Galaxy... This space is dead to me. “Crunch Time” no longer bears fruit for me. It is time I planted my own garden around my own Circle. I’m dying to know what’s out there!</Text>
       <Text></Text>
     </Paragraph>
     <Paragraph Type="Character">
@@ -3187,7 +3185,9 @@ LOOK BEYOND THESE GALAXIES.</Text>
           </CharacterArcBeat>
         </SceneArcBeats>
       </SceneProperties>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">6. “Luminous”</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">6. “</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#00000000FFFF" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Luminous</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">”</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"></Text>
     </Paragraph>
     <Paragraph Type="Action">
@@ -3292,7 +3292,7 @@ LOOK BEYOND THESE GALAXIES.</Text>
     </Paragraph>
     <Paragraph Type="General">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">End of “</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Luminous</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#00000000FFFF" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Luminous</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">”</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
     </Paragraph>
@@ -3384,7 +3384,9 @@ LOOK BEYOND THESE GALAXIES.</Text>
           </CharacterArcBeat>
         </SceneArcBeats>
       </SceneProperties>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">7. “Big Bang”</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">7. “</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#00000000FFFF" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Big Bang</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">”</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"></Text>
     </Paragraph>
     <Paragraph Type="Character">
@@ -3396,7 +3398,8 @@ LOOK BEYOND THESE GALAXIES.</Text>
       <Text></Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">JD shoots SINGULARITY in the face.</Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">JD</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> shoots SINGULARITY in the face.</Text>
       <Text></Text>
     </Paragraph>
     <Paragraph Type="Action">
@@ -3427,7 +3430,8 @@ LOOK BEYOND THESE GALAXIES.</Text>
       <Text></Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">TIDALS (OFFSTAGE)</Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">TIDALS</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"> (OFFSTAGE)</Text>
       <Text></Text>
     </Paragraph>
     <Paragraph Type="Parenthetical">
@@ -3645,7 +3649,7 @@ LOOK BEYOND THESE GALAXIES.</Text>
     </Paragraph>
     <Paragraph Type="General">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">End of “</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Big Bang</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#00000000FFFF" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Big Bang</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">”</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
     </Paragraph>
@@ -3705,7 +3709,9 @@ LOOK BEYOND THESE GALAXIES.</Text>
           </CharacterArcBeat>
         </SceneArcBeats>
       </SceneProperties>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">8. “Verse”</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">8. “</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#00000000FFFF" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Verse</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">”</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"></Text>
     </Paragraph>
     <Paragraph Type="Action">
@@ -3892,7 +3898,7 @@ LOOK BEYOND THESE GALAXIES.</Text>
     </Paragraph>
     <Paragraph Type="General">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">End of “</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Verse</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#00000000FFFF" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Verse</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">”</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
     </Paragraph>
@@ -3964,7 +3970,9 @@ LOOK BEYOND THESE GALAXIES.</Text>
           </CharacterArcBeat>
         </SceneArcBeats>
       </SceneProperties>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">9. “Rip”</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">9. “</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#00000000FFFF" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Rip</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">”</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"></Text>
     </Paragraph>
     <Paragraph Type="Action">
@@ -4004,7 +4012,7 @@ LOOK BEYOND THESE GALAXIES.</Text>
     </Paragraph>
     <Paragraph Type="General">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">End of “</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Rip</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#00000000FFFF" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Rip</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">”</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
     </Paragraph>
@@ -4566,7 +4574,9 @@ LOOK BEYOND THESE GALAXIES.</Text>
           </CharacterArcBeat>
         </SceneArcBeats>
       </SceneProperties>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">10. “Anomaly is Everything”</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">10. “</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#00000000FFFF" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Anomaly is Everything</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">”</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"></Text>
     </Paragraph>
     <Paragraph Type="Character">
@@ -4753,7 +4763,7 @@ but me.</Text>
     </Paragraph>
     <Paragraph Type="General">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">End of “</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Anomaly is Everything</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#00000000FFFF" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Anomaly is Everything</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">”</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
     </Paragraph>
@@ -4798,7 +4808,7 @@ but me.</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Cartwheel</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> grabs </Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Whirlpool</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> and gets out of the Elliptic with them.</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> and gets out of The Circle with them.</Text>
       <Text></Text>
     </Paragraph>
     <Paragraph Type="Character">
@@ -4981,7 +4991,7 @@ but me.</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Milky Way</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> strolls away from the safety of the Elliptic.</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> strolls away from the safety of The Circle.</Text>
       <Text></Text>
     </Paragraph>
     <Paragraph Type="Character">
@@ -5092,7 +5102,7 @@ but me.</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">. Shiver me clusters! </Text>
       <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Italic">Melky</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Italic"> Way is away</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">! No one is at the Elliptic!</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">! No one is at The Circle!</Text>
       <Text></Text>
     </Paragraph>
     <Paragraph Type="Character">
@@ -5511,7 +5521,9 @@ but me.</Text>
           </CharacterArcBeat>
         </SceneArcBeats>
       </SceneProperties>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">11. “Time is Relative”</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">11. “</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#00000000FFFF" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Time is Relative</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">”</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"></Text>
     </Paragraph>
     <Paragraph Type="Character">
@@ -5957,7 +5969,7 @@ Let’s not waste time.</Text>
     </Paragraph>
     <Paragraph Type="General">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">End of “</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Time is Relative</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#00000000FFFF" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Time is Relative</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">”</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
     </Paragraph>
@@ -6010,13 +6022,13 @@ Let’s not waste time.</Text>
         </SceneArcBeats>
       </SceneProperties>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">12. “</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Big Rip</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#00000000FFFF" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Big Rip</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">”</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"></Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">The </Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Tidals</Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Tidals</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> dance around the rug. The Big Bang is their holiday.</Text>
       <Text></Text>
     </Paragraph>
@@ -6030,7 +6042,7 @@ Let’s not waste time.</Text>
     </Paragraph>
     <Paragraph Type="Parenthetical">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">(re: the </Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Tidals</Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Tidals</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> on the burial plot)</Text>
       <Text></Text>
     </Paragraph>
@@ -6086,7 +6098,7 @@ Let’s not waste time.</Text>
     </Paragraph>
     <Paragraph Type="General">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">End of “</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Big Rip</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#00000000FFFF" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Big Rip</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">”</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
     </Paragraph>
@@ -6751,7 +6763,7 @@ Let’s not waste time.</Text>
         </SceneArcBeats>
       </SceneProperties>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">13. “</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Warp, Waves, and Wrinkles</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#00000000FFFF" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Warps, Waves, and Wrinkles</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">”</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="5" Style=""></Text>
     </Paragraph>
@@ -6791,7 +6803,7 @@ Let’s not waste time.</Text>
       <Text></Text>
     </Paragraph>
     <Paragraph Type="Lyrics">
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">through warp, waves, and wrinkles.</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">through warps, waves, and wrinkles.</Text>
       <Text></Text>
     </Paragraph>
     <Paragraph Type="Lyrics">
@@ -7121,7 +7133,7 @@ Perseus arm.	</Text>
       <Text></Text>
     </Paragraph>
     <Paragraph Type="Lyrics">
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Warp, waves, and wrinkles.</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Warps, waves, and wrinkles.</Text>
       <Text></Text>
     </Paragraph>
     <Paragraph Type="Lyrics">
@@ -7132,7 +7144,7 @@ Perseus arm.	</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="8" Style="AllCaps"></Text>
     </Paragraph>
     <Paragraph Type="Lyrics">
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">warp, waves, and wrinkles.</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">warps, waves, and wrinkles.</Text>
       <Text></Text>
     </Paragraph>
     <Paragraph Type="Parenthetical">
@@ -7197,7 +7209,7 @@ Perseus arm.	</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="8" Style="AllCaps"></Text>
     </Paragraph>
     <Paragraph Type="Lyrics">
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Warp, waves, and wrinkles!</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Warps, waves, and wrinkles!</Text>
       <Text></Text>
     </Paragraph>
     <Paragraph Type="Lyrics">
@@ -7226,12 +7238,12 @@ Perseus arm.	</Text>
       <Text></Text>
     </Paragraph>
     <Paragraph Type="Lyrics">
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Our warp, waves, and wrinkles!</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Our warps, waves, and wrinkles!</Text>
       <Text></Text>
     </Paragraph>
     <Paragraph Type="General">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">End of “</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Warp, Waves, and Wrinkles</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#00000000FFFF" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Warps, Waves, and Wrinkles</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">”</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
     </Paragraph>
@@ -7283,7 +7295,7 @@ Perseus arm.	</Text>
       <Text></Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Warp,</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Warps,</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style=""> </Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">waves,</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style=""> </Text>
@@ -7297,7 +7309,7 @@ Perseus arm.	</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="11" Style=""> </Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">a</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="11" Style=""> </Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">sense for... But not red giants. Welcome to adolescence.</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">sense for. But not red giants. Welcome to adolescence.</Text>
       <Text></Text>
     </Paragraph>
     <Paragraph Type="Scene Info">
@@ -7342,7 +7354,7 @@ Perseus arm.	</Text>
         </SceneArcBeats>
       </SceneProperties>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">14. “</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Globular</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#00000000FFFF" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Globular</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">”</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
     </Paragraph>
@@ -7399,7 +7411,7 @@ Perseus arm.	</Text>
     </Paragraph>
     <Paragraph Type="General">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">End of “</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Globular</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#00000000FFFF" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Globular</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">”</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
     </Paragraph>
@@ -7714,12 +7726,13 @@ Perseus arm.	</Text>
         </SceneArcBeats>
       </SceneProperties>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">15. “</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Fabric</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#00000000FFFF" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Fabric</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">”</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"></Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Tidals (Offstage)</Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Tidals</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"> (Offstage)</Text>
       <Text></Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
@@ -7755,7 +7768,7 @@ Perseus arm.	</Text>
     </Paragraph>
     <Paragraph Type="Action">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">The </Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Tidals</Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Tidals</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> enter, prowling in.</Text>
       <Text></Text>
     </Paragraph>
@@ -8062,7 +8075,7 @@ Perseus arm.	</Text>
     </Paragraph>
     <Paragraph Type="General">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">End of “</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Fabric</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#00000000FFFF" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Fabric</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">”</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
     </Paragraph>
@@ -8344,7 +8357,7 @@ Perseus arm.	</Text>
         </SceneArcBeats>
       </SceneProperties>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">16. “</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Far-Fetched</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#00000000FFFF" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Far-Fetched</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">”</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"></Text>
     </Paragraph>
@@ -8629,8 +8642,8 @@ farther away.</Text>
       <Text AdornmentStyle="0" Background="#A6A6CACAF0F0" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Tidals</Text>
-      <Text></Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Tidals</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"></Text>
     </Paragraph>
     <Paragraph Type="Lyrics">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Italic+AllCaps">A bit far-fetched</Text>
@@ -8642,13 +8655,14 @@ farther away.</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">, </Text>
       <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">JD</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">, and the </Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Tidals</Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Tidals</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> sled away.</Text>
       <Text></Text>
     </Paragraph>
     <Paragraph Type="General">
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">End of “F</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">ar-Fetched</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">End of “</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#00000000FFFF" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">F</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#00000000FFFF" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">ar-Fetched</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">”</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
     </Paragraph>
@@ -8710,7 +8724,7 @@ farther away.</Text>
         </SceneArcBeats>
       </SceneProperties>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">17. “</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Point</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#00000000FFFF" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Point</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">”</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"></Text>
     </Paragraph>
@@ -8788,8 +8802,7 @@ farther away.</Text>
       <Text></Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">TIDALS</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"> (O.S.)</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">TIDALS (O.S.)</Text>
       <Text></Text>
     </Paragraph>
     <Paragraph Type="Parenthetical">
@@ -8862,7 +8875,7 @@ farther away.</Text>
     </Paragraph>
     <Paragraph Type="General">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">End of “</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Point</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#00000000FFFF" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Point</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">”</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
     </Paragraph>
@@ -8994,7 +9007,7 @@ farther away.</Text>
         </SceneArcBeats>
       </SceneProperties>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">18. “</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Heat Death</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#00000000FFFF" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Heat Death</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">”</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"></Text>
     </Paragraph>
@@ -9415,7 +9428,7 @@ My ego’s atomic, but my love for our nebula is galactic. They’ll be much mor
     </Paragraph>
     <Paragraph Type="General">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">End of “</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Heat Death</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#00000000FFFF" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Heat Death</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">”</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
     </Paragraph>
@@ -9428,7 +9441,8 @@ My ego’s atomic, but my love for our nebula is galactic. They’ll be much mor
       <Text></Text>
     </Paragraph>
     <Paragraph Type="Character">
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Tidals (Offstage)</Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Tidals</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"> (Offstage)</Text>
       <Text></Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
@@ -9445,7 +9459,7 @@ My ego’s atomic, but my love for our nebula is galactic. They’ll be much mor
     </Paragraph>
     <Paragraph Type="Action">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">On stage, the </Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Tidals</Text>
+      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Tidals</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> enter.</Text>
       <Text></Text>
     </Paragraph>
@@ -9827,7 +9841,7 @@ My ego’s atomic, but my love for our nebula is galactic. They’ll be much mor
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Italic">Okay, I’m eroded</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">. Let’s camp out for a few million years. It’ll </Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Italic">clear</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> up. Fourth dimension... Have I ever mentioned how funny it was when you tried to break out of our Elliptic, billions of times?</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> up. Fourth dimension... Have I ever mentioned how funny it was when you tried to break out of our Circle, billions of times?</Text>
       <Text></Text>
     </Paragraph>
     <Paragraph Type="Character">
@@ -10221,7 +10235,7 @@ My ego’s atomic, but my love for our nebula is galactic. They’ll be much mor
         </SceneArcBeats>
       </SceneProperties>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">19. “</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Parallax</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#00000000FFFF" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Parallax</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">”</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"></Text>
     </Paragraph>
@@ -10456,7 +10470,7 @@ divided, ya are to apparent change in position, so SIT.
     </Paragraph>
     <Paragraph Type="General">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">End of “</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Parallax</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#00000000FFFF" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Parallax</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">”</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
     </Paragraph>
@@ -10507,7 +10521,7 @@ divided, ya are to apparent change in position, so SIT.
         </SceneArcBeats>
       </SceneProperties>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">20. “</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Tangent</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#00000000FFFF" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Tangent</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">”</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
     </Paragraph>
@@ -10627,7 +10641,7 @@ divided, ya are to apparent change in position, so SIT.
     </Paragraph>
     <Paragraph Type="General">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">End of “</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Tangent</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#00000000FFFF" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Tangent</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">”</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
     </Paragraph>
@@ -10943,7 +10957,8 @@ divided, ya are to apparent change in position, so SIT.
         </SceneArcBeats>
       </SceneProperties>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">21. “</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">...” (</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#00000000FFFF" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">...</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">” (</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">Omission</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">)</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"></Text>
@@ -11091,7 +11106,7 @@ divided, ya are to apparent change in position, so SIT.
     </Paragraph>
     <Paragraph Type="General">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">End of “</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">...</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#00000000FFFF" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">...</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">”</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
     </Paragraph>
@@ -11118,31 +11133,15 @@ divided, ya are to apparent change in position, so SIT.
       <Text></Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Three huts or tents resemble</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style=""> </Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">the main</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style=""> </Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Elliptic.</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style=""> </Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">The</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style=""> </Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Left Elliptic is</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="8" Style=""> </Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">the doghouse, the Central Elliptic is the sleeping quarters, and the Right</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style=""> </Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Elliptic</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style=""> </Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">is</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style=""> </Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">the command post. The Left Elliptic houses </Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Three huts or tents resemble the main Circle. The Left Oval is the doghouse, the Central Oval is the sleeping quarters, and the Right Oval is the command post. The Left Oval houses </Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Tidals</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">. The Central Elliptic houses a sleeping </Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">. The Central Oval houses a sleeping </Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Whirlpool</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">, </Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Andromeda</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">, and </Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Milky Way</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">. The Right Elliptic houses </Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">. The Right Oval houses </Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Cartwheel</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> and </Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Triangulum</Text>
@@ -11182,7 +11181,7 @@ divided, ya are to apparent change in position, so SIT.
     </Paragraph>
     <Paragraph Type="Action">
       <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">JD</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> discreetly heads to the Left Elliptic.</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> discreetly heads to the Left Oval.</Text>
       <Text></Text>
     </Paragraph>
     <Paragraph Type="Character">
@@ -11197,7 +11196,7 @@ divided, ya are to apparent change in position, so SIT.
       <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">JD</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> gravitationally pulls each </Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Tidal</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> out of the Left Elliptic.</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> out of the Left Oval.</Text>
       <Text></Text>
     </Paragraph>
     <Paragraph Type="Action">
@@ -11205,26 +11204,17 @@ divided, ya are to apparent change in position, so SIT.
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Tidals</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> are freed, they shove </Text>
       <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">JD</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> into the Left Elliptic. They</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style=""> </Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">wreak</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style=""> </Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">havoc</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style=""> </Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">upon the campsite. Some enter the Right Elliptic, startling</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style=""> </Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> into the Left Oval. They wreak havoc upon the campsite. Some enter the Right Oval, which startles </Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Cartwheel</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style=""> </Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">and</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style=""> </Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> and </Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Triangulum.</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> </Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Triangulum</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> shields the snow globe. Some enter the Central Elliptic.</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> shields the snow globe. Some enter the Central Oval.</Text>
       <Text></Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">The Central Elliptic lights up, causing the </Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">The Central Oval lights up, causing the </Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps">Tidals</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> to run out.</Text>
       <Text></Text>
@@ -11290,7 +11280,7 @@ divided, ya are to apparent change in position, so SIT.
         </SceneArcBeats>
       </SceneProperties>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">22. “</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Bounce Back</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#00000000FFFF" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Bounce Back</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">”</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
     </Paragraph>
@@ -11351,7 +11341,7 @@ divided, ya are to apparent change in position, so SIT.
     </Paragraph>
     <Paragraph Type="General">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">End of “</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Bounce Back</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#00000000FFFF" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Bounce Back</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">”</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
     </Paragraph>
@@ -11843,7 +11833,15 @@ divided, ya are to apparent change in position, so SIT.
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"></Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Please, it’s you who have nothing in the pit of your supermassive black holes. You’re growing teen Galaxies. Now you, Milky Way... You with your warp, waves, and wrinkles. It’s wonderful.</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Please, it’s you who have nothing in the pit of your supermassive black holes. You’re growing teen Galaxies. Now you, Milky Way... You with your</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style=""> </Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">warps,</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style=""> </Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">waves,</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style=""> </Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">and</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style=""> </Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">wrinkles. It’s wonderful.</Text>
       <Text></Text>
     </Paragraph>
     <Paragraph Type="Character">
@@ -11990,7 +11988,7 @@ divided, ya are to apparent change in position, so SIT.
         </SceneArcBeats>
       </SceneProperties>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">23. “</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Family is Everything</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#00000000FFFF" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Family is Everything</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">”</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"></Text>
     </Paragraph>
@@ -12222,7 +12220,7 @@ divided, ya are to apparent change in position, so SIT.
     </Paragraph>
     <Paragraph Type="General">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">End of “</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Family is Everything</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#00000000FFFF" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Family is Everything</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">”</Text>
       <Text></Text>
     </Paragraph>
@@ -12362,7 +12360,7 @@ divided, ya are to apparent change in position, so SIT.
         </SceneArcBeats>
       </SceneProperties>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">24. “</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Put Down</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#00000000FFFF" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Put Down</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">”</Text>
       <Text></Text>
     </Paragraph>
@@ -12500,7 +12498,7 @@ This Debate ya have with reality!</Text>
     </Paragraph>
     <Paragraph Type="General">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">End of “</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Put Down</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#00000000FFFF" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Put Down</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">”</Text>
       <Text></Text>
     </Paragraph>
@@ -12853,7 +12851,15 @@ This Debate ya have with reality!</Text>
     <Paragraph Type="Dialogue">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Hibernation or not, a solid bear finds ways to lie. </Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Italic">You’re the anomaly with power</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">. I ask for your warp, waves, and wrinkles... To walk away.</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">. I ask for your</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style=""> </Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">warps,</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style=""> </Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">waves,</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style=""> </Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">and</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style=""> </Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">wrinkles... To walk away.</Text>
       <Text></Text>
     </Paragraph>
     <Paragraph Type="Action">
@@ -12915,7 +12921,7 @@ This Debate ya have with reality!</Text>
         </Paragraph>
         <Paragraph Type="Dialogue">
           <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">JD</Text>
-          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">, who did you see beyond our Elliptic?</Text>
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">, who did you see beyond our Circle?</Text>
           <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
         </Paragraph>
         <Paragraph Type="Character">
@@ -12923,7 +12929,7 @@ This Debate ya have with reality!</Text>
           <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"></Text>
         </Paragraph>
         <Paragraph Type="Dialogue">
-          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Sing— What did you see in this Elliptic?</Text>
+          <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">Sing— What did you see in this Circle?</Text>
         </Paragraph>
       </DualDialogue>
       <Text></Text>
@@ -13037,7 +13043,7 @@ This Debate ya have with reality!</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"></Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">My legacy is to leave family or does legacy leave family? All it really did was leave me alone out there. You’re right. It’s a heartless and lightless universe. In an elliptic unlike ours, I have nothing to take care for. I am unable to share the light of my heart.</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">My legacy is to leave family or does legacy leave family? All it really did was leave me alone out there. You’re right. It’s a heartless and lightless universe. In a Circle unlike ours, I have nothing to take care for. I am unable to share the light of my heart.</Text>
       <Text></Text>
     </Paragraph>
     <Paragraph Type="Character">
@@ -13071,8 +13077,7 @@ This Debate ya have with reality!</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="AllCaps"> </Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">time</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style="AllCaps"> </Text>
-      <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">togethe</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">r-</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">together-</Text>
       <Text></Text>
     </Paragraph>
     <Paragraph Type="Character">
@@ -13180,7 +13185,7 @@ This Debate ya have with reality!</Text>
         </SceneArcBeats>
       </SceneProperties>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">25. “</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Apparent (Shed Light)</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#00000000FFFF" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Apparent (Shed Light)</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">”</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"></Text>
     </Paragraph>
@@ -13484,7 +13489,7 @@ You’re everything.</Text>
     </Paragraph>
     <Paragraph Type="General">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">End of “</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Apparent (Shed Light)</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#00000000FFFF" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Apparent (Shed Light)</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">”</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
     </Paragraph>
@@ -13516,7 +13521,7 @@ You’re everything.</Text>
         </SceneArcBeats>
       </SceneProperties>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">26. “</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Spacetime</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#00000000FFFF" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Spacetime</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">”</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"></Text>
     </Paragraph>
@@ -13555,7 +13560,7 @@ You’re everything.</Text>
     </Paragraph>
     <Paragraph Type="General">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">End of “</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Spacetime</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#00000000FFFF" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Spacetime</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">”</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
     </Paragraph>
@@ -13595,7 +13600,7 @@ You’re everything.</Text>
         </SceneArcBeats>
       </SceneProperties>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">27. “</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Liminality</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#00000000FFFF" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Liminality</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">”</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"></Text>
     </Paragraph>
@@ -13736,7 +13741,7 @@ You’re everything.</Text>
     </Paragraph>
     <Paragraph Type="General">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">End of “</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Liminality</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#00000000FFFF" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Liminality</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">”</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
     </Paragraph>
@@ -13815,7 +13820,7 @@ You’re everything.</Text>
         </SceneArcBeats>
       </SceneProperties>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">28. “</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">(The Big Rip of) Zenith</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#00000000FFFF" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">(The Big Rip of) Zenith</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">”</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"></Text>
     </Paragraph>
@@ -14379,7 +14384,7 @@ You’re everything.</Text>
       <Text></Text>
     </Paragraph>
     <Paragraph Type="Dialogue">
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">No elliptic is perfect. In Zenith, I save space for my fam. I’ll spend eternity— </Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">No Circle is perfect. In Zenith, I save space for my fam. I’ll spend eternity— </Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Italic">Free</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""> </Text>
       <Text AdornmentStyle="-1" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">fal</Text>
@@ -14518,7 +14523,7 @@ You’re everything.</Text>
     </Paragraph>
     <Paragraph Type="General">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">End of “</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">(The Big Rip of) Zenith</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#00000000FFFF" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">(The Big Rip of) Zenith</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">”</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
     </Paragraph>
@@ -14553,7 +14558,7 @@ You’re everything.</Text>
         </SceneArcBeats>
       </SceneProperties>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">29. “</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Big Crunch</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#00000000FFFF" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Big Crunch</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">”</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
     </Paragraph>
@@ -14710,7 +14715,7 @@ You’re everything.</Text>
     </Paragraph>
     <Paragraph Type="General">
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">End of “</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Big Crunch</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#00000000FFFF" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Big Crunch</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">”</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style=""></Text>
     </Paragraph>
@@ -14825,7 +14830,7 @@ You’re everything.</Text>
         </SceneArcBeats>
       </SceneProperties>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">30. “</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Big Bounce</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#00000000FFFF" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline+AllCaps">Big Bounce</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="Underline">”</Text>
       <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="AllCaps"></Text>
     </Paragraph>
@@ -14911,13 +14916,7 @@ You’re everything.</Text>
       <Text></Text>
     </Paragraph>
     <Paragraph Type="Action">
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">The</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style=""> </Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">light</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style=""> </Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">fills</Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="10" Style=""> </Text>
-      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">the whole Elliptic.</Text>
+      <Text AdornmentStyle="0" Background="#FFFFFFFFFFFF" Color="#000000000000" Font="Courier Final Draft" RevisionID="0" Size="12" Style="">The light fills the whole Circle.</Text>
       <Text></Text>
     </Paragraph>
     <Paragraph Type="Character">
@@ -15078,7 +15077,7 @@ You’re everything.</Text>
 
   <SpellCheckIgnoreLists>
     <IgnoredRanges>
-      <Range End="31781" Start="31773"/>
+      <Range End="31725" Start="31717"/>
     </IgnoredRanges>
     <IgnoredWords>
       <Word>themself</Word>
@@ -15090,7 +15089,7 @@ You’re everything.</Text>
     <AutoCastList AddParentheses="Yes" AutomaticallyGenerate="Yes" CastListElement="Cast List"/>
   </PageLayout>
 
-  <WindowState Height="635" Left="2" Mode="Normal" Top="2" Width="989"/>
+  <WindowState Height="635" Left="2" Mode="Normal" Top="1" Width="989"/>
 
   <TextState Scaling="100" Selection="0,0" ShowInvisibles="No"/>
 
